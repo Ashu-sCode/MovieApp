@@ -87,10 +87,10 @@ Feel free to fork the repository and submit pull requests. If you encounter bugs
 ## Screenshots 📸
 
 ### Home Page
-![Home Page](../screenshots/home.png)
+![Home Page](./MovieApp/screenshots/home.png)
 
 ### Search Results
-![Search Results](../screenshots/search.png)
+![Search Results](./MovieApp/screenshots/search.png)
 
 
 ---
